@@ -1,0 +1,3 @@
+/home/shira/Desktop/c-generic-vector-ShiraZaltsman/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/shira/Desktop/c-generic-vector-ShiraZaltsman/cmake-build-debug/CMakeFiles/c_generic_vector_ShiraZaltsman.dir
+/home/shira/Desktop/c-generic-vector-ShiraZaltsman/cmake-build-debug/CMakeFiles/edit_cache.dir

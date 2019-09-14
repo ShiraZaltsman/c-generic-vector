@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/c_generic_vector_ShiraZaltsman.dir/main.c.o CMakeFiles/c_generic_vector_ShiraZaltsman.dir/generic_vector.c.o CMakeFiles/c_generic_vector_ShiraZaltsman.dir/test.c.o  -o c_generic_vector_ShiraZaltsman 
